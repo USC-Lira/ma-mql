@@ -1,0 +1,12 @@
+{
+    "tau": 0.05,
+    "test_iteration": 45,
+    "gamma": 0.95,
+    "alpha": 100,
+    "batch_size": 128,
+    "critic_lr": 4e-4,
+    "episodes": 10000000,
+    "dataset_episodes": 30000,
+    "capacity": 1660,
+    "num_agents": 2
+}
